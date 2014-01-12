@@ -2,12 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>AngularJS Tutorials</title>
-    <script src="app/main.js"></script>
 </head>
-<body ng-app="">
+<body ng-app="myApp">
 
-    <input type="text" ng-model="data.message" />
-    <h1>{{data.message}}</h1>
+    <!--<input type="text" ng-model="data.message" />
+    <h1>{{data.message}}</h1>-->
 
     <div ng-controller="FirstCtrl">
         <input type="text" ng-model="data.message" />
@@ -20,5 +19,6 @@
     </div>
 
     <script src="scripts/angular.min.js"></script>
+    <script src="app/main.js"></script>
 </body>
 </html>
