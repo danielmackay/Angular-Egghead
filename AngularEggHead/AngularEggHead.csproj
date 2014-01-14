@@ -61,7 +61,9 @@
   <ItemGroup>
     <Content Include="app3-directives\Index.html" />
     <Content Include="app3-directives\main.js" />
+    <Content Include="app5-directives-controllers\Index.html" />
     <Content Include="app4-behaviors\Index.html" />
+    <Content Include="app5-directives-controllers\main.js" />
     <TypeScriptCompile Include="app4-behaviors\main.ts" />
     <Content Include="app2-filters\Index.html" />
     <Content Include="app2-filters\main.js" />
