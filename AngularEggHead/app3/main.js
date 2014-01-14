@@ -1,9 +1,24 @@
 ﻿/// <reference path="../scripts/angular.min.js" />
 var app = angular.module("superhero", []);
 
-app.directive("superman", function () {
+app.directive("superman", function() {
     return {
-        restrict: "E",
-        template: "<div>Here I am to save the day</div>"
+        /* A: Attribute
+         * E: Element
+         * C: Class
+         * M: Comment */
+        restrict: "A",
+        link: function() {
+            alert("I'm working stronger");
+        }
     };
-})
+});
+
+app.directive("flash", function() {
+    return {
+        restrict: "A",
+        link: function() {
+            alert("I'm working faster");
+        }
+    };
+});
