@@ -8,3 +8,4 @@
 /// <reference path="../app4-behaviors/main.js" />
 /// <reference path="../app3-directives/main.js" />
 /// <reference path="../app5-directives-controllers/main.js" />
+/// <reference path="../app6-directive-directive/main.js" />

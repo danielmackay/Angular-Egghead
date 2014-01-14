@@ -61,6 +61,8 @@
   <ItemGroup>
     <Content Include="app3-directives\Index.html" />
     <Content Include="app3-directives\main.js" />
+    <Content Include="app6-directive-directive\Index.html" />
+    <Content Include="app6-directive-directive\main.js" />
     <Content Include="app5-directives-controllers\Index.html" />
     <Content Include="app4-behaviors\Index.html" />
     <Content Include="app5-directives-controllers\main.js" />
