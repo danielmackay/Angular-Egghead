@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app3\Index.html" />
+    <Content Include="app3\main.js" />
     <Content Include="app2\Index.html" />
     <Content Include="app2\main.js" />
     <Content Include="Content\bootstrap-theme.css" />
