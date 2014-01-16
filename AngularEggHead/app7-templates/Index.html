@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>AngularJS Tutorials</title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="app.css" rel="stylesheet" />
+</head>
+<body ng-app="myApp">
+    <script type="text/ng-template" id="person.html">
+        {{person.last}}, {{person.first}} {{person.middle}}
+    </script>
+
+    <div ng-controller="PersonCtrl">
+        <div ng-repeat="person in people" ng-include="'templates/_person2.html'"></div>
+    </div>
+    
+    <h3>Alternative List</h3>
+    <div ng-controller="PersonCtrl">
+        <div ng-repeat="person in people" ng-include="'templates/_person3.html'"></div>
+    </div>
+    
+    <h3>Questionnaire</h3>
+    <div ng-controller="QuestionCtrl">
+        <div ng-repeat="question in questions" ng-include="'templates/_questions.html'"></div>
+    </div>
+    
+    <h3>A tree</h3>
+    <div ng-controller="TreeCtrl">
+        <ul>
+            <li ng-repeat="node in tree" ng-include="'templates/_node.html'">
+                {{node.name}}
+            </li>
+        </ul>
+    </div>
+
+    <script src="../scripts/angular.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

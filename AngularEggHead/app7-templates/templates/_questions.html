@@ -1,0 +1,6 @@
+﻿<div class="question">
+    <span>{{question.number}}.</span>
+    <span>{{question.question}} -</span>
+    <span>{{question.type}}</span>
+    <div class="answer" ng-include="'templates/_'+question.type+'.html'"></div>
+</div>

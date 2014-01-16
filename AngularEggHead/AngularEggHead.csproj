@@ -61,6 +61,11 @@
   <ItemGroup>
     <Content Include="app3-directives\Index.html" />
     <Content Include="app3-directives\main.js" />
+    <Content Include="app7-templates\app.css" />
+    <Content Include="app7-templates\images\F.jpg" />
+    <Content Include="app7-templates\Index.html" />
+    <Content Include="app7-templates\images\M.jpg" />
+    <Content Include="app7-templates\main.js" />
     <Content Include="app6-directive-directive\Index.html" />
     <Content Include="app6-directive-directive\main.js" />
     <Content Include="app5-directives-controllers\Index.html" />
@@ -69,11 +74,21 @@
     <TypeScriptCompile Include="app4-behaviors\main.ts" />
     <Content Include="app2-filters\Index.html" />
     <Content Include="app2-filters\main.js" />
+    <Content Include="app7-templates\templates\_multiOption.html" />
+    <Content Include="app7-templates\templates\_singleOption.html" />
+    <Content Include="app7-templates\templates\_person3.html" />
+    <Content Include="app7-templates\templates\_person2.html" />
+    <Content Include="app7-templates\templates\_number.html" />
+    <Content Include="app7-templates\templates\_date.html" />
+    <Content Include="app7-templates\templates\_node.html" />
+    <Content Include="app7-templates\templates\_text.html" />
+    <Content Include="app7-templates\templates\_questions.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="PersonCtrl.js" />
     <Content Include="scripts\angular.min.js.map" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
