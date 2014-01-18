@@ -63,6 +63,8 @@
     <Content Include="app03-directives\main.js" />
     <Content Include="app10-isolate-scope-=\Index.html" />
     <Content Include="app10-isolate-scope-=\main.js" />
+    <Content Include="app12-isolate-scope-review\Index.html" />
+    <Content Include="app12-isolate-scope-review\main.js" />
     <Content Include="app11-isolate-scope-ampersand\Index.html" />
     <Content Include="app11-isolate-scope-ampersand\main.js" />
     <Content Include="app09-isolate-scope-%40\Index.html" />
