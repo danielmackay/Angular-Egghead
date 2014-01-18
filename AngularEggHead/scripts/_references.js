@@ -21,3 +21,4 @@
 /// <reference path="../app14-alternative controllers/main2.js" />
 /// <reference path="../app16-zippy/main.js" />
 /// <reference path="../app17-elements/main.js" />
+/// <reference path="../app18-values and constants/main.js" />

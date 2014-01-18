@@ -63,6 +63,8 @@
     <Content Include="app03-directives\main.js" />
     <Content Include="app10-isolate-scope-=\Index.html" />
     <Content Include="app10-isolate-scope-=\main.js" />
+    <Content Include="app18-values and constants\Index.html" />
+    <Content Include="app18-values and constants\main.js" />
     <Content Include="app17-elements\Index.html" />
     <Content Include="app17-elements\main.js" />
     <Content Include="app16-zippy\Index.html" />
