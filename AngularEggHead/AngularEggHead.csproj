@@ -59,36 +59,38 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app3-directives\Index.html" />
-    <Content Include="app3-directives\main.js" />
+    <Content Include="app03-directives\Index.html" />
+    <Content Include="app03-directives\main.js" />
     <Content Include="app10-isolate-scope-=\Index.html" />
     <Content Include="app10-isolate-scope-=\main.js" />
-    <Content Include="app9-isolate-scope-%40\Index.html" />
-    <Content Include="app9-isolate-scope-%40\main.js" />
-    <Content Include="app8-isolate-scope\Index.html" />
-    <Content Include="app8-isolate-scope\main.js" />
-    <Content Include="app7-templates\app.css" />
-    <Content Include="app7-templates\images\F.jpg" />
-    <Content Include="app7-templates\Index.html" />
-    <Content Include="app7-templates\images\M.jpg" />
-    <Content Include="app7-templates\main.js" />
-    <Content Include="app6-directive-directive\Index.html" />
-    <Content Include="app6-directive-directive\main.js" />
-    <Content Include="app5-directives-controllers\Index.html" />
-    <Content Include="app4-behaviors\Index.html" />
-    <Content Include="app5-directives-controllers\main.js" />
-    <TypeScriptCompile Include="app4-behaviors\main.ts" />
-    <Content Include="app2-filters\Index.html" />
-    <Content Include="app2-filters\main.js" />
-    <Content Include="app7-templates\templates\_multiOption.html" />
-    <Content Include="app7-templates\templates\_singleOption.html" />
-    <Content Include="app7-templates\templates\_person3.html" />
-    <Content Include="app7-templates\templates\_person2.html" />
-    <Content Include="app7-templates\templates\_number.html" />
-    <Content Include="app7-templates\templates\_date.html" />
-    <Content Include="app7-templates\templates\_node.html" />
-    <Content Include="app7-templates\templates\_text.html" />
-    <Content Include="app7-templates\templates\_questions.html" />
+    <Content Include="app11-isolate-scope-ampersand\Index.html" />
+    <Content Include="app11-isolate-scope-ampersand\main.js" />
+    <Content Include="app09-isolate-scope-%40\Index.html" />
+    <Content Include="app09-isolate-scope-%40\main.js" />
+    <Content Include="app08-isolate-scope\Index.html" />
+    <Content Include="app08-isolate-scope\main.js" />
+    <Content Include="app07-templates\app.css" />
+    <Content Include="app07-templates\images\F.jpg" />
+    <Content Include="app07-templates\Index.html" />
+    <Content Include="app07-templates\images\M.jpg" />
+    <Content Include="app07-templates\main.js" />
+    <Content Include="app06-directive-directive\Index.html" />
+    <Content Include="app06-directive-directive\main.js" />
+    <Content Include="app05-directives-controllers\Index.html" />
+    <Content Include="app04-behaviors\Index.html" />
+    <Content Include="app05-directives-controllers\main.js" />
+    <TypeScriptCompile Include="app04-behaviors\main.ts" />
+    <Content Include="app02-filters\Index.html" />
+    <Content Include="app02-filters\main.js" />
+    <Content Include="app07-templates\templates\_multiOption.html" />
+    <Content Include="app07-templates\templates\_singleOption.html" />
+    <Content Include="app07-templates\templates\_person3.html" />
+    <Content Include="app07-templates\templates\_person2.html" />
+    <Content Include="app07-templates\templates\_number.html" />
+    <Content Include="app07-templates\templates\_date.html" />
+    <Content Include="app07-templates\templates\_node.html" />
+    <Content Include="app07-templates\templates\_text.html" />
+    <Content Include="app07-templates\templates\_questions.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -122,8 +124,8 @@
     <TypeScriptCompile Include="scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app1-binding\main.js" />
-    <Content Include="app1-binding\Index.html" />
+    <Content Include="app01-binding\main.js" />
+    <Content Include="app01-binding\Index.html" />
     <Content Include="scripts\angular-mocks.js" />
     <Content Include="scripts\angular.js" />
     <Content Include="scripts\angular.min.js" />
