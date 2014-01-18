@@ -63,6 +63,9 @@
     <Content Include="app03-directives\main.js" />
     <Content Include="app10-isolate-scope-=\Index.html" />
     <Content Include="app10-isolate-scope-=\main.js" />
+    <Content Include="app14-alternative controllers\main2.js" />
+    <Content Include="app15-organisation\Index.html" />
+    <Content Include="app15-organisation\main.js" />
     <Content Include="app14-alternative controllers\Index.html" />
     <Content Include="app14-alternative controllers\main.js" />
     <Content Include="app13-transclusion\Index.html" />
