@@ -4,13 +4,12 @@ app.controller("AppCtrl", function($scope) {
     $scope.ctrlFlavor = "blackberry";
 })
 
-app.directive("drink", function () {
+app.directive("drink", function() {
     return {
         scope: {
-            // 2-way binding
-            flavor:"="
+            flavor:"@"
         },
-        template: '<input type="text" ng-model="flavor">',
+        template: '<div>{{flavor}}</div>',
     }
 })
 

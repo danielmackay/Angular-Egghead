@@ -12,3 +12,4 @@
 /// <reference path="../personctrl.js" />
 /// <reference path="../app8-isolate-scope/main.js" />
 /// <reference path="../app9-isolate-scope-@/main.js" />
+/// <reference path="../app10-isolate-scope-=/main.js" />
