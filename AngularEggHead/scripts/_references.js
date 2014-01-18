@@ -11,3 +11,4 @@
 /// <reference path="../app7-templates/main.js" />
 /// <reference path="../personctrl.js" />
 /// <reference path="../app8-isolate-scope/main.js" />
+/// <reference path="../app9-isolate-scope-@/main.js" />
