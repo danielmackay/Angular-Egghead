@@ -61,6 +61,8 @@
   <ItemGroup>
     <Content Include="app3-directives\Index.html" />
     <Content Include="app3-directives\main.js" />
+    <Content Include="app8-isolate-scope\Index.html" />
+    <Content Include="app8-isolate-scope\main.js" />
     <Content Include="app7-templates\app.css" />
     <Content Include="app7-templates\images\F.jpg" />
     <Content Include="app7-templates\Index.html" />
