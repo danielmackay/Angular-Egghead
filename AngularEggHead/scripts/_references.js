@@ -23,3 +23,4 @@
 /// <reference path="../app17-elements/main.js" />
 /// <reference path="../app18-values and constants/main.js" />
 /// <reference path="../app19-$scope vs scope/main.js" />
+/// <reference path="../app20-templateurl/main.js" />

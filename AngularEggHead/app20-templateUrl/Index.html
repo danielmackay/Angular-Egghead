@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>AngularJS Tutorials</title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div ng-app="zippyApp">
+        <!--<script type="text/ng-template" id="zippy.html">
+            <div>
+                <h3 ng-click="toggleContent()">{{title}}</h3>
+                <div ng-show="isContentVisible" ng-transclude>Hello world!</div>
+            </div>
+        </script>-->
+
+        <input class="form-control" type="text" ng-model="model.title" />
+        <input class="form-control" type="text" ng-model="model.content" />
+        <zippy title="{{model.title}}">
+            This is the {{model.content}}
+        </zippy>
+    </div>
+
+
+    <script src="../scripts/angular.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
