@@ -1,6 +1,4 @@
 ﻿/// <autosync enabled="true" />
-/// <reference path="angular-mocks.js" />
-/// <reference path="angular.js" />
 /// <reference path="bootstrap.js" />
 /// <reference path="jquery-1.9.1.js" />
 /// <reference path="../personctrl.js" />
@@ -25,3 +23,7 @@
 /// <reference path="../app19-$scope vs scope/main.js" />
 /// <reference path="../app20-templateurl/main.js" />
 /// <reference path="../app21-templatecache/main.js" />
+/// <reference path="../app22-ng-view/main.js" />
+/// <reference path="angular-mocks.js" />
+/// <reference path="angular.js" />
+/// <reference path="angular-route.js" />
