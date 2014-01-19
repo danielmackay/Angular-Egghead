@@ -63,6 +63,8 @@
     <Content Include="app03-directives\main.js" />
     <Content Include="app10-isolate-scope-=\Index.html" />
     <Content Include="app10-isolate-scope-=\main.js" />
+    <Content Include="app19-%24scope vs scope\Index.html" />
+    <Content Include="app19-%24scope vs scope\main.js" />
     <Content Include="app18-values and constants\Index.html" />
     <Content Include="app18-values and constants\main.js" />
     <Content Include="app17-elements\Index.html" />
