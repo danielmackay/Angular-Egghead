@@ -1,6 +1,6 @@
 ﻿var app = angular.module("zippyApp", []);
 
-app.directive("zippy", function() {
+app.directive("zippy", function () {
     return {
         restrict: "E",
         scope: {

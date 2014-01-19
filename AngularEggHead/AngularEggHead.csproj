@@ -108,6 +108,8 @@
     <Content Include="app07-templates\templates\_node.html" />
     <Content Include="app07-templates\templates\_text.html" />
     <Content Include="app07-templates\templates\_questions.html" />
+    <Content Include="app21-templateCache\Index.html" />
+    <Content Include="app21-templateCache\main.js" />
     <Content Include="app20-templateUrl\Index.html" />
     <Content Include="app20-templateUrl\main.js" />
     <Content Include="app20-templateUrl\zippy.html" />
