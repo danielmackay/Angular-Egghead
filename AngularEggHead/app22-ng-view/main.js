@@ -1,12 +1,17 @@
 ﻿var app = angular.module("app", ["ngRoute"]);
 
 app.config(function ($routeProvider) {
-    $routeProvider.when('/',
-        {
+    $routeProvider
+        .when('/', {
             templateUrl: "app.html",
             controller: "AppCtrl"
-        }
-    );
+        })
+        .when('/pizza', {
+            template: "Yum!!"
+        })
+        .otherwise({
+            template: "This doesn't exist"
+        });
 });
 
 app.controller("AppCtrl", function ($scope) {
