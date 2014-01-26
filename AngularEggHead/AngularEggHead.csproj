@@ -108,6 +108,9 @@
     <Content Include="app07-templates\templates\_node.html" />
     <Content Include="app07-templates\templates\_text.html" />
     <Content Include="app07-templates\templates\_questions.html" />
+    <Content Include="app23-route-params\app.html" />
+    <Content Include="app23-route-params\Index.html" />
+    <Content Include="app23-route-params\main.js" />
     <Content Include="app22-ng-view\app.html" />
     <Content Include="app22-ng-view\Index.html" />
     <Content Include="app22-ng-view\main.js" />
