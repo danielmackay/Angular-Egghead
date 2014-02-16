@@ -108,6 +108,9 @@
     <Content Include="app07-templates\templates\_node.html" />
     <Content Include="app07-templates\templates\_text.html" />
     <Content Include="app07-templates\templates\_questions.html" />
+    <Content Include="app24-resolve\app.html" />
+    <Content Include="app24-resolve\Index.html" />
+    <Content Include="app24-resolve\main.js" />
     <Content Include="app24-promises\app.html" />
     <Content Include="app24-promises\Index.html" />
     <Content Include="app24-promises\main.js" />
